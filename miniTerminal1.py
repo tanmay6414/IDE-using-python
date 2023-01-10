@@ -6,6 +6,7 @@ from gi.repository import Gtk
 from gi.repository import GObject
 
 
+
 wnd = Gtk.Window()
 wnd.set_default_size(400, 400)
 #wnd.connect("destroy", Gtk.main_quit)
